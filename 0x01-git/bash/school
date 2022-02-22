@@ -1,2 +1,2 @@
-#!/bin/bash
-echo  "School" > School
+#!/bin/basg
+echo "The school is open"
